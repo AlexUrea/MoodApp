@@ -28,6 +28,4 @@ public class User {
 
     @ManyToOne
     private Manager manager;
-
-    private int test;
 }
